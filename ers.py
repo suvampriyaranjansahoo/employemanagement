@@ -1,5 +1,3 @@
-#Employee Record System
-#Powered by: Kashipara.com
 from tkinter import*
 from tkinter import messagebox
 from openpyxl import load_workbook
